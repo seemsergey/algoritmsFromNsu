@@ -67,4 +67,5 @@ add_executable(
         "Contest/SIXsevenContest/Улучшение сети/main.c"
         "About types/граф/алгоритм Флойда–Уоршелла/main.c"
         "Contest/SIXsevenContest/Конденсация графа/main.c"
+        "About types/граф/пропускная спосбоность/main.c"
 )
